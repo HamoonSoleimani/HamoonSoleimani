@@ -121,12 +121,18 @@ I am a **results-driven developer** with a deep passion for the intersection of 
 
 <div align="center">
   <picture>
-    <!-- The dark version -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake-dark.svg" />
-    <!-- The light version -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg" />
-    <!-- A fallback image -->
-    <img alt="github-snake" src="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg" />
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake-dark.svg?v=1" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg?v=1" 
+    />
+    <img 
+      alt="github-snake" 
+      src="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg?v=1" 
+    />
   </picture>
 </div>
 
