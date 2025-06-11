@@ -1,6 +1,10 @@
 # GitHub Action for generating a contribution graph with a snake eating the contributions
 name: Generate Snake
 
+# This grants the action permission to write to your repository.
+permissions:
+  contents: write
+
 # Controls when the action will run
 on:
   # This runs the job every 6 hours
@@ -25,7 +29,6 @@ jobs:
           github_user_name: HamoonSoleimani
           
           # The list of output files to generate
-          # We'll create a dark and a light version for your README
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
