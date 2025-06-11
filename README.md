@@ -2,7 +2,6 @@
 
 <h1 align="center">
   Hi there, I'm Hamoon Soleimani 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <h3 align="center">A Passionate Developer, AI Enthusiast, and Algorithmic Trader</h3>
@@ -18,11 +17,6 @@
 </p>
 
 <!-- Socials -->
-<p align="center">
-  <a href="mailto:[YOUR_EMAIL@example.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/[YOUR_TELEGRAM_USERNAME]"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
 
 ---
 
@@ -67,14 +61,6 @@ I am a results-driven developer with a deep passion for the intersection of **Ar
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/MetaTrader_5-0053A3?style=for-the-badge&logo=metaquotes&logoColor=white" alt="MetaTrader 5" />
-</p>
-
----
-
-## 🏆 GitHub Trophies & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamoonSoleimani&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
