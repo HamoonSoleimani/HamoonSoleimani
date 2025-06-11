@@ -65,14 +65,6 @@ I am a **results-driven developer** with a deep passion for the intersection of 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-0053A3?style=for-the-badge&logo=metaquotes&logoColor=white)
-
-### 💾 Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 </div>
 
 ---
@@ -244,22 +236,6 @@ mindmap
 
 </div>
 
----
-
-## 💖 Support My Work
-
-<div align="center">
-
-If you find my projects helpful or interesting, consider supporting my work:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hamoonsoleimani)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hamoonsoleimani)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/HamoonSoleimani)
-
-⭐ **Star my repositories** if you find them useful!
-🔔 **Follow me** for updates on new projects and developments!
-
-</div>
 
 ---
 
