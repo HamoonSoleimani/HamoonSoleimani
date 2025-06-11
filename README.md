@@ -120,9 +120,14 @@ I am a **results-driven developer** with a deep passion for the intersection of 
 ## 📈 Contribution Activity
 
 <div align="center">
-
-![Snake animation](https://github.com/HamoonSoleimani/HamoonSoleimani/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <picture>
+    <!-- The dark version -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake-dark.svg" />
+    <!-- The light version -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg" />
+    <!-- A fallback image -->
+    <img alt="github-snake" src="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
