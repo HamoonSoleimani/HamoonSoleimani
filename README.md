@@ -177,7 +177,7 @@ mindmap
 
 <div align="center">
 
-### 🎯 2024 Objectives
+### 🎯 2025 Objectives
 - [ ] 🚀 Master Advanced Reinforcement Learning for Trading
 - [ ] 🔬 Dive Deep into Quantum Computing Applications
 - [ ] 🌐 Build Scalable Microservices Architecture
