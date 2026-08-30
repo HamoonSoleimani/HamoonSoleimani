@@ -44,8 +44,8 @@
 ## 📊 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamoonSoleimani&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamoonSoleimani&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=HamoonSoleimani&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" height="165" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HamoonSoleimani&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165" alt="Top Languages"/>
 </div>
 
 <br>
