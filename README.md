@@ -1,50 +1,45 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+%2F+ML+Engineer;Algorithmic+Trading+Developer;Python+%26+MQL5" alt="Typing SVG" />
+
+<br/>
+
 # Hamoon Soleimani
 
-### AI/ML Engineer · Algorithmic Trading Developer
+<sub>Building automated trading systems where models meet markets.</sub>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+%26+MQL5+Developer;Building+Automated+Trading+Systems;Machine+Learning+for+Financial+Markets)
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/HamoonSoleimani?label=Followers&style=flat-square&color=0e75b6)](https://github.com/HamoonSoleimani?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=HamoonSoleimani&label=Views&color=0e75b6&style=flat-square)](https://github.com/HamoonSoleimani)
+[![GitHub followers](https://img.shields.io/github/followers/HamoonSoleimani?label=Follow&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/HamoonSoleimani?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=HamoonSoleimani&label=Views&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/HamoonSoleimani)
 
 </div>
 
----
+<br/>
 
 ## About
 
-I build automated trading systems — from strategy logic in **MQL5/MQL4** to data pipelines and models in **Python**. My focus right now is on reinforcement learning applied to market data, and making trading infrastructure that's actually reliable in production, not just backtest-pretty.
+I build automated trading systems — strategy logic in **MQL5/MQL4**, data pipelines and models in **Python**. Current focus is reinforcement learning applied to market data, and trading infrastructure that holds up in live conditions, not just in a backtest.
 
 Open to collaborating on open-source AI/ML and quant-trading projects.
 
----
+<br/>
 
 ## Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-4A76B8?style=flat-square&logo=metaquotes&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
 
-**ML / Data**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,bash,postgres&theme=dark" alt="Languages" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&theme=dark" alt="ML/Data" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker,linux,git,vscode&theme=dark" alt="Tools" height="48"/>
 
-**Infra / Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-0053A3?style=flat-square&logo=metaquotes&logoColor=white)
+<sub>MetaTrader 5 · MQL5 / MQL4 (no official icon set)</sub>
 
----
+</div>
+
+<br/>
 
 ## Projects
 
@@ -52,37 +47,83 @@ Open to collaborating on open-source AI/ML and quant-trading projects.
 |---|---|---|
 | **[Pr0xySh4rk](https://github.com/HamoonSoleimani/Pr0xySh4rk)** | Merges, tests, and filters V2Ray proxy subscriptions to surface the fastest working connections | Python |
 | **[ForexDashboard](https://github.com/HamoonSoleimani/ForexDashboard)** | Forex trading system pulling multi-source real-time data for automated decision-making | Python |
-| **[ML-Portfolio-with-PF](https://github.com/HamoonSoleimani/ML-Portfolio-with-PF)** | Portfolio optimization using profit-factor metrics instead of raw return, for trading strategy allocation | Jupyter / scikit-learn |
+| **[ML-Portfolio-with-PF](https://github.com/HamoonSoleimani/ML-Portfolio-with-PF)** | Portfolio optimization using profit-factor metrics instead of raw return, for strategy allocation | Jupyter / scikit-learn |
 | **[Squeeze Momentum Indicator](https://github.com/HamoonSoleimani/Squeeze-Momentum-indicator-lazybear-)** | MQL5 port of LazyBear's Squeeze Momentum indicator, with added features | MQL5 |
 | **[WilliamsVIXfix](https://github.com/HamoonSoleimani/WilliamsVIXfix)** | MetaTrader 5 implementation of the Williams VIX Fix synthetic volatility indicator | MQL5 |
 | **[Mises-Wire-Epub](https://github.com/HamoonSoleimani/Mises-Wire-Epub)** | Converts Mises Wire articles into formatted EPUB books with metadata extraction | Python |
 
----
+<br/>
 
 ## GitHub Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HamoonSoleimani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamoonSoleimani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=HamoonSoleimani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamoonSoleimani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=HamoonSoleimani&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamoonSoleimani&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=FFA500&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph"/>
+
 </div>
+
+<details>
+<summary><sub>Stats card blank or stale? Click for the fix</sub></summary>
+<br>
+
+These four are third-party services reading the public GitHub API — occasional slow loads or rate-limit blips are normal and usually clear on refresh. If a card stays broken for days, it's the underlying service, not your data; swap in a self-hosted fork of `github-readme-stats` as a fallback.
+
+</details>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamoonSoleimani&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ffa500&currStreakLabel=c9d1d9"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg" />
+</picture>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamoonSoleimani&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=ffa500&point=c9d1d9&area=true&hide_border=true"/>
-</div>
+<details>
+<summary><sub>Snake not showing? It needs a one-time setup — click here</sub></summary>
+<br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake-dark.svg?v=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg?v=1" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg?v=1" />
-  </picture>
-</div>
+This isn't a hosted badge — it's generated by a GitHub Action that has to run *in this repo* (`HamoonSoleimani/HamoonSoleimani`). If the workflow was never added, the image above will always 404. Add `.github/workflows/snake.yml` with:
 
----
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Commit it, run it once manually from the **Actions** tab (`workflow_dispatch`), and the `output` branch + SVGs will exist within a minute.
+
+</details>
+
+<br/>
 
 ## Currently
 
@@ -90,11 +131,11 @@ Open to collaborating on open-source AI/ML and quant-trading projects.
 - Building real-time analytics for trading strategy evaluation
 - Looking to contribute to open-source ML libraries
 
----
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamoon-soleimani)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hamoonsoleimani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamoon-soleimani)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hamoonsoleimani)
 
 </div>
