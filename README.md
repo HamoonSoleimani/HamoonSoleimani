@@ -76,5 +76,5 @@ If you want to collaborate on algorithmic trading solutions, machine learning re
 <br>
 
 <div align="right">
-  <img src="https://profile-counter.glitch.me/HamoonSoleimani/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=HamoonSoleimani&label=Profile%20Views&color=58a6ff&style=flat" alt="Visitor Count" />
 </div>
