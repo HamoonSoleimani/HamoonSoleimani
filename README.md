@@ -1,83 +1,80 @@
+# 👋 Hamoon Soleimani
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+%2F+ML+Engineer;Algorithmic+Trading+Developer;Python+%26+MQL5" alt="Typing SVG" />
-
-<br/>
-
-# Hamoon Soleimani
-
-<sub>Building automated trading systems where models meet markets.</sub>
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/HamoonSoleimani?label=Follow&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/HamoonSoleimani?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=HamoonSoleimani&label=Views&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/HamoonSoleimani)
-
+  <a href="https://github.com/HamoonSoleimani">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Quantitative+Developer+%26+Researcher;Python,+MQL5,+%26+C%2B%2B;Building+Automated+Trading+Systems;Open-Source+Android+%26+Linux+Dev" alt="Typing SVG" />
+  </a>
 </div>
 
-<br/>
+<br>
 
-## About
+**Quantitative developer and systems engineer.** I build data-driven trading infrastructure, open-source security tools, and system-level utilities. My focus is on turning complex mathematical models into performant, production-ready code—whether that means optimizing financial portfolios, fixing CPU throttling on Linux, or analyzing blockchain topologies.
 
-I build automated trading systems — strategy logic in **MQL5/MQL4**, data pipelines and models in **Python**. Current focus is reinforcement learning applied to market data, and trading infrastructure that holds up in live conditions, not just in a backtest.
+---
 
-Open to collaborating on open-source AI/ML and quant-trading projects.
-
-<br/>
-
-## Stack
+## 🛠️ Stack & Technologies
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,bash,postgres&theme=dark" alt="Languages" height="48"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&theme=dark" alt="ML/Data" height="48"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker,linux,git,vscode&theme=dark" alt="Tools" height="48"/>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,kotlin,bash,linux,android,docker,kubernetes,postgres,tensorflow,pytorch,sklearn,opencv,git&perline=16" alt="Tech Stack"/>
+  </a>
 </div>
 
-<br/>
+<br>
 
-## Projects
+- **Financial Engineering:** `MQL5` / `MQL4`, MetaTrader Development, OANDA v20 API, Applied Econometrics
+- **Machine Learning & Data:** Reinforcement Learning, Time-Series Forecasting, Profit Factor Optimization
+- **Systems & Security:** Linux Internals, Android Root Operations, OPSEC, Advanced Proxy Management
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Pr0xySh4rk](https://github.com/HamoonSoleimani/Pr0xySh4rk)** | Merges, tests, and filters V2Ray proxy subscriptions to surface the fastest working connections | Python |
-| **[ForexDashboard](https://github.com/HamoonSoleimani/ForexDashboard)** | Forex trading system pulling multi-source real-time data for automated decision-making | Python |
-| **[ML-Portfolio-with-PF](https://github.com/HamoonSoleimani/ML-Portfolio-with-PF)** | Portfolio optimization using profit-factor metrics instead of raw return, for strategy allocation | Jupyter / scikit-learn |
-| **[Squeeze Momentum Indicator](https://github.com/HamoonSoleimani/Squeeze-Momentum-indicator-lazybear-)** | MQL5 port of LazyBear's Squeeze Momentum indicator, with added features | MQL5 |
-| **[WilliamsVIXfix](https://github.com/HamoonSoleimani/WilliamsVIXfix)** | MetaTrader 5 implementation of the Williams VIX Fix synthetic volatility indicator | MQL5 |
-| **[Mises-Wire-Epub](https://github.com/HamoonSoleimani/Mises-Wire-Epub)** | Converts Mises Wire articles into formatted EPUB books with metadata extraction | Python |
+---
 
-<br/>
+## 🚀 Featured Projects
 
-## GitHub Activity
+| Project | Description | Primary Tech |
+|---------|-------------|--------------|
+| **[UncleTed](https://github.com/HamoonSoleimani/UncleTed)** | Privacy-focused Android anti-theft app featuring remote SMS control, stealth operations, and powerful root-level capabilities. | `Kotlin`, `Android` |
+| **[ForexDashboard](https://github.com/HamoonSoleimani/ForexDashboard)** | Real-time Forex trading robot with multi-source data analysis, GUI monitoring, and automated decision-making pipelines. | `Python`, `Tkinter` |
+| **[Endogenous-Constraint](https://github.com/HamoonSoleimani/Endogenous-Constraint-Replication)** | Python econometric suite for threshold regression analysis of transaction friction and topology within the Bitcoin network. | `Python`, `Data Science` |
+| **[Thinkpad-T480-Fix](https://github.com/HamoonSoleimani/Thinkpad-T480-cpu-throttling-fix-linux)** | System-level daemon workaround for Intel CPU throttling (PROCHOT) issues specific to Linux environments. | `Bash`, `Linux` |
+| **[ML-Portfolio-with-PF](https://github.com/HamoonSoleimani/ML-Portfolio-with-PF)** | Advanced Machine Learning portfolio optimization utilizing Profit Factor metrics for algorithmic trading strategies. | `Jupyter`, `Scikit-Learn` |
+| **[Pr0xySh4rk](https://github.com/HamoonSoleimani/Pr0xySh4rk)** | Advanced networking tool that merges, tests, and streamlines v2ray proxy subscriptions for optimal latency. | `Python`, `Networking` |
+
+---
+
+## 📊 Analytics & Activity
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=HamoonSoleimani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamoonSoleimani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=HamoonSoleimani&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamoonSoleimani&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=FFA500&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HamoonSoleimani&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamoonSoleimani&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165" alt="Top Languages"/>
 </div>
 
-<br/>
-
-## Currently
-
-- Applying reinforcement learning to financial time-series problems
-- Building real-time analytics for trading strategy evaluation
-- Looking to contribute to open-source ML libraries
-
-<br/>
+<br>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg?v=1" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/HamoonSoleimani/HamoonSoleimani/output/github-snake.svg?v=1" />
+  </picture>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamoon-soleimani)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hamoonsoleimani)
+---
 
+## 🌐 Connect With Me
+
+If you want to collaborate on algorithmic trading solutions, machine learning research, or robust open-source tools, feel free to reach out.
+
+<div align="left">
+  <a href="https://linkedin.com/in/hamoon-soleimani">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/hamoonsoleimani">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
+<br>
+
+<div align="right">
+  <img src="https://profile-counter.glitch.me/HamoonSoleimani/count.svg" alt="Visitor Count" />
 </div>
